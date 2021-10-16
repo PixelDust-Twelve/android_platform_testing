@@ -26,7 +26,7 @@ platform_tests += \
     camera_metadata_tests \
     CellBroadcastReceiverTests \
     ConnectivityManagerTest \
-    ContactsTests \
+#    ContactsTests \
     CtsCameraTestCases \
     CtsHardwareTestCases \
     DataIdleTest \
